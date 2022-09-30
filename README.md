@@ -1,0 +1,2 @@
+# Ghost Game
+<b><i>Thoughts</i></b>: I broke this down into actionable steps, I was able to specify the logic that was needed, and I created a working prototype over the last 2 days. Although the game is not as seamless as I would like it to be, I hope this shows insight onto what I can do. I know that with some guidance I'd be able to knock this out the park. This has been a challenge to build, but fortunately enough I welcome all challenges.
